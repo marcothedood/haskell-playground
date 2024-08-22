@@ -1,0 +1,4 @@
+3, zoom, /bin/zoom, andy
+5, pornhub, /bin/pornhub, marco
+7, skype, /bin/skype, marco
+9, teams, /bin/teams, vito
