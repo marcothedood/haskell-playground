@@ -1,0 +1,1 @@
+ghc -iPgmUsr PgmUsr/Main.hs --make -o bin/pgmusr -outputdir bin/
